@@ -1,0 +1,12 @@
+C:\Users\Formulatrix\RiderProjects\TrafficLightManager\TrafficLightManager\bin\Debug\net7.0\TrafficLightManager.deps.json
+C:\Users\Formulatrix\RiderProjects\TrafficLightManager\TrafficLightManager\bin\Debug\net7.0\TrafficLightManager.dll
+C:\Users\Formulatrix\RiderProjects\TrafficLightManager\TrafficLightManager\bin\Debug\net7.0\TrafficLightManager.pdb
+C:\Users\Formulatrix\RiderProjects\TrafficLightManager\TrafficLightManager\obj\Debug\net7.0\TrafficLightManager.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\RiderProjects\TrafficLightManager\TrafficLightManager\obj\Debug\net7.0\TrafficLightManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\RiderProjects\TrafficLightManager\TrafficLightManager\obj\Debug\net7.0\TrafficLightManager.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\RiderProjects\TrafficLightManager\TrafficLightManager\obj\Debug\net7.0\TrafficLightManager.AssemblyInfo.cs
+C:\Users\Formulatrix\RiderProjects\TrafficLightManager\TrafficLightManager\obj\Debug\net7.0\TrafficLightManager.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\RiderProjects\TrafficLightManager\TrafficLightManager\obj\Debug\net7.0\TrafficLightManager.dll
+C:\Users\Formulatrix\RiderProjects\TrafficLightManager\TrafficLightManager\obj\Debug\net7.0\refint\TrafficLightManager.dll
+C:\Users\Formulatrix\RiderProjects\TrafficLightManager\TrafficLightManager\obj\Debug\net7.0\TrafficLightManager.pdb
+C:\Users\Formulatrix\RiderProjects\TrafficLightManager\TrafficLightManager\obj\Debug\net7.0\ref\TrafficLightManager.dll
